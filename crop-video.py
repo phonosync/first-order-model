@@ -151,8 +151,11 @@ if __name__ == "__main__":
 
     args = parser.parse_args()
 
+    if os.path.exists("crop.mp4"):
+        os.remove("crop.mp4")
+
     commands = process_video(args)
     for command in commands:
-        print (command)
+        print(command)
+        os.system(command)
 
-        
