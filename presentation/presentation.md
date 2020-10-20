@@ -34,7 +34,9 @@ section {
 # Informationsanlass ZHAW <br>Bachelorstudium Data Science
 ### Demonstration Deep Fakes
 
-Pascal Sager, 08.10.2020
+Pascal Sager, 24.10.2020
+
+
 
 ---
 
@@ -45,12 +47,17 @@ Pascal Sager, 08.10.2020
 **Pascal Sager**
 
 - 2020-2023: MSc. Data Science an der ZHAW
-- 2020-2023: Wissenschaftlicher Assistenst am InIT
-  - Fokus Computer Vision und Pattern Recognition mit Deep Learning
+- 2020-2023: Wissenschaftlicher Assistent am InIT
+  - Fokus: Computer Vision und Pattern Recognition mit Deep Learning
 - 2017-2020: BSc. Computer Science an der ZHAW
 
 <br>
 Kontakt: sage@zhaw.ch
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ---
 
@@ -60,11 +67,13 @@ Meine Empfehlung
 
 **Studiert Data Science an der ZHAW**
 
--> Paste Video hier
 
+<video width="200" height="400" style="margin:auto" controls>
+  <source src="data/driver.mp4" type="video/mp4">
+</video>
 
-Überzeugt?
-- Was wenn das Guy Parmelin, Vorsteher des Eidgenössisches Departement für Wirtschaft, Bildung und Forschung sagt?
+<br>
+Falls ich Sie nicht überzeuge - was wenn dies Guy Parmelin, Vorsteher des Eidgenössisches Departement für Wirtschaft, Bildung und Forschung sagen würde?
 
 ---
 
@@ -78,14 +87,18 @@ Meine Empfehlung
 Erkenntnisse
 </div>
 
-- Deep Fakes können relativ einfach erstellt werden
-- Mit Tuning oder längerem Training könnten auch noch bessere Resultate erzielt werden
+- Deep Fakes können mit wenig erstellt werden
+- Mit weiteren Optimierungen könnten noch bessere Resultate erzielt werden
+- Wichtige Aufgaben im Bereich Data Science sind:
+  - Daten verstehen und aufbereiten
+  - Daten verarbeiten / analysieren
+  - Erkenntnisse ableiten
 - Künstliche Intelligenz bietet viele Möglichkeiten, jedoch auch Risiken und Gefahren
+  - Deep Fakes
+  - Bias aufgrund Geschlecht, Religion, Hautfarbe, ...
 
-<br>
-<br>
 
-**Ihr wollt verstehen wie es im Detail funktioniert und noch realistischere Fakes erstellen? Dann studiert Data Science an der ZHAW :)**
+**Sie wollen verstehen wie es im Detail funktioniert und noch realistischere Fakes erstellen? Dann studieren Sie Data Science an der ZHAW :)**
 
 ---
 
