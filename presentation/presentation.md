@@ -65,21 +65,32 @@ Kontakt: sage@zhaw.ch
 Meine Empfehlung
 </div>
 
-**Studiert Data Science an der ZHAW**
+Meine Empfehlung an Sie:
 
+**Studieren Sie Data Science an der ZHAW**
+<br>
+Ich weiss nicht, ob Sie meine Empfehlung überzeugt
+- Was, wenn Guy Parmelin, Vorsteher des Eidgenössisches Departement für Wirtschaft, Bildung und Forschung Ihnen dasselbe sagen würde?
 
-<video width="200" height="400" style="margin:auto" controls>
-  <source src="data/driver.mp4" type="video/mp4">
-</video>
 
 <br>
-Falls ich Sie nicht überzeuge - was wenn dies Guy Parmelin, Vorsteher des Eidgenössisches Departement für Wirtschaft, Bildung und Forschung sagen würde?
+<br>
+<br>
+<br>
 
 ---
 
-
 # Live Demonstration zu Deep Fakes
 
+---
+
+<div class=custom-header>
+Deep Fakes: Video
+</div>
+
+<video width="1000" height="600" style="margin:auto" controls>
+  <source src="data/driver_pres.mp4" type="video/mp4">
+</video>
 
 ---
 
@@ -87,8 +98,8 @@ Falls ich Sie nicht überzeuge - was wenn dies Guy Parmelin, Vorsteher des Eidge
 Erkenntnisse
 </div>
 
-- Deep Fakes können mit wenig erstellt werden
-- Mit weiteren Optimierungen könnten noch bessere Resultate erzielt werden
+- Deep Fakes können mit wenig Aufwand erstellt werden
+- Weiteren Optimierungen würden zu noch besseren Resultaten führen
 - Wichtige Aufgaben im Bereich Data Science sind:
   - Daten verstehen und aufbereiten
   - Daten verarbeiten / analysieren
