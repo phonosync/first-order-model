@@ -34,7 +34,7 @@ section {
 # Informationsanlass ZHAW <br>Bachelorstudium Data Science
 ### Demonstration Deep Fakes
 
-Pascal Sager, 24.10.2020
+Pascal Sager, 07.11.2020
 
 
 
